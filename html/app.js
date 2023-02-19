@@ -1,1 +1,1 @@
-let app = [opp,xaax,]
+let app = ["wai","Yan","naing"]
